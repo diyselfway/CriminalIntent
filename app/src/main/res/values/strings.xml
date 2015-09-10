@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">看见</string>
+    <string name="crime_title_hint">给它一个名称吧</string>
+    <string name="action_settings">设置</string>
+    <string name="crime_title_lable">标题</string>
+    <string name="crime_details_lable">详细</string>
+    <string name="crime_solved_lable">已解决</string>
+    <string name="crimes_title">记录</string>
+    <string name="date_picker_title">时间:</string>
+    <string name="new_crime">新建</string>
+    <string name="show_subtitle">显示子标题</string>
+    <string name="hide_subtitle">隐藏子标题</string>
+    <string name="subtitle">记录下你看到的吧！</string>
+    <string name="delete_crime">删除</string>
+    <string name="take">拍照</string>
+</resources>
